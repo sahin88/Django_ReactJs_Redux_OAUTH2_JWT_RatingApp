@@ -10,7 +10,8 @@
 
 <img src="https://github.com/sahin88/Django_ReactJs_Redux_OAUTH2_JWT_RatingApp/blob/main/bewertung.png"  width="400px" height="400px">.
 
-## Entity Relationship Diagram
+## Live Demo 
+YouTube(https://www.youtube.com/watch?v=uFeuemDiKZc)
 
 
 ## Getting Started

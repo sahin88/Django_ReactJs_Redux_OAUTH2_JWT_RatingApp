@@ -1,0 +1,20 @@
+.image-container {
+  position: relative;
+  top: 80px;
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.image-card {
+  margin: 25px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 7px;
+}
+.image {
+  width: 100%;
+}
